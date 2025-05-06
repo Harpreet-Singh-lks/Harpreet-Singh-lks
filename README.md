@@ -2,7 +2,7 @@
 <h3 align="center">Blockchain & DeFi Enthusiast | Backend Developer | Open Source Contributor</h3>
 
 <p align="right">
-  <img src="https://your-uploaded-gif-link.gif" alt="cat typing" width="300"/>
+  <img src="[https://your-uploaded-gif-link.gif](https://i.gifer.com/2GU.gif)" alt="cat typing" width="300"/>
 </p>
 
 <p align="center">
