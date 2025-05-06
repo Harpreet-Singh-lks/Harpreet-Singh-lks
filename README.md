@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">Blockchain & DeFi Enthusiast | Backend Developer | Open Source Contributor</h3>
 
+<p align="right">
+  <img src="https://your-uploaded-gif-link.gif" alt="cat typing" width="300"/>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
@@ -32,14 +36,11 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername streak"/>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
----
+
 
 ### 🌐 Let's Connect
 
